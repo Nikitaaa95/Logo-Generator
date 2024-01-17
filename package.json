@@ -1,0 +1,19 @@
+{
+  "name": "logo-geni",
+  "version": "1.0.0",
+  "description": "A command line generator. Uses your inputs to build a basic logo for any project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
