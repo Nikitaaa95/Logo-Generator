@@ -1,7 +1,7 @@
 ## Logo Generator
 Github Repo - https://github.com/Nikitaaa95/Logo-Generator
 
-Screenrecording Video - 
+Screenrecording Video - https://drive.google.com/file/d/12pbmqo67vkIF2pNqYRfYRI0mq6gEtUVi/view
 
 ## Description
 The Logo Generator is a command-line interface (CLI) tool that allows users to create custom logos using basic shapes and text. Users can choose the text content, color, shape, and shape color to generate an SVG logo.
