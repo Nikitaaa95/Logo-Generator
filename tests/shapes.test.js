@@ -1,4 +1,4 @@
-const { Shape, Circle, Triangle, Square } = require('./shapes');
+const { Shape, Circle, Triangle, Square } = require('../lib/shapes');
 
 describe('Shape classes', () => {
     describe('Circle', () => {
